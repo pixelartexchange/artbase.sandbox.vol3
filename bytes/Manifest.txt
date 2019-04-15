@@ -1,0 +1,9 @@
+CHANGELOG.md
+LICENSE.md
+Manifest.txt
+README.md
+Rakefile
+lib/bytes.rb
+lib/bytes/version.rb
+test/helper.rb
+test/test_string.rb
