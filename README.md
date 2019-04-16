@@ -57,6 +57,13 @@ String.new("".b).encoding  #=> <Encoding::ASCII_8BIT>
 "".b.encoding              #=> <Encoding::ASCII_8BIT>
 
 Encoding::BINARY == Encoding::ASCII_8BIT  #=> true
+
+# or using the Bytes helper
+
+Bytes.new.encoding              #=> <Encoding::ASCII_8BIT>  
+Bytes.new("").encoding          #=> <Encoding::ASCII_8BIT>
+Bytes.new("ab").encoding        #=> <Encoding::ASCII_8BIT>
+Bytes.new("\x61\x62").encoding  #=> <Encoding::ASCII_8BIT>
 ```
 
 If you use `String.new("")` (note the `""` passed in) or
@@ -68,6 +75,12 @@ Let's try:
 # encoding: utf-8
 String.new("").encoding    #=> <Encoding::UTF_8>
 "".encoding                #=> <Encoding::UTF_8>
+
+# or using the Buffer helper
+
+Buffer.new.encoding        #=> <Encoding::UTF_8>
+Buffer.new("").encoding    #=> <Encoding::UTF_8>
+Buffer.new("ab").encoding  #=> <Encoding::UTF_8>
 ```
 
 If you use the recommended `# frozen_string_literal: true` magic comment

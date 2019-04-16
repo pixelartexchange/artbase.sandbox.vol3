@@ -29,4 +29,21 @@ class TestString < MiniTest::Test
      assert Encoding::UTF_8 == String.new("").encoding
   end
 
+  def test_bytes
+     assert Encoding::ASCII_8BIT == Bytes.new.encoding
+     assert Encoding::ASCII_8BIT == Bytes.new("").encoding
+     assert Encoding::ASCII_8BIT == Bytes.new("ab").encoding
+
+     assert Encoding::BINARY == Encoding::ASCII_8BIT
+     assert Encoding::BINARY == Bytes.new.encoding
+     assert Encoding::BINARY == Bytes.new("").encoding
+     assert Encoding::BINARY == Bytes.new("ab").encoding
+  end
+
+  def test_buffer
+    assert Encoding::UTF_8 == Buffer.new.encoding
+    assert Encoding::UTF_8 == Buffer.new("").encoding
+    assert Encoding::UTF_8 == Buffer.new("ab").encoding
+  end
+
 end  # class TestString
