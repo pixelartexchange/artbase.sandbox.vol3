@@ -124,10 +124,10 @@ Encoding::BINARY == Encoding::ASCII_8BIT  #=> true
 
 # or using the Bytes helper
 
-Bytes.new.encoding              #=> <Encoding::ASCII_8BIT>  
-Bytes.new("").encoding          #=> <Encoding::ASCII_8BIT>
-Bytes.new("ab").encoding        #=> <Encoding::ASCII_8BIT>
-Bytes.new("\x61\x62").encoding  #=> <Encoding::ASCII_8BIT>
+Bytes.new.encoding                  #=> <Encoding::ASCII_8BIT>  
+Bytes.new("").encoding              #=> <Encoding::ASCII_8BIT>
+Bytes.new("abc").encoding           #=> <Encoding::ASCII_8BIT>
+Bytes.new("\x61\x62\x63").encoding  #=> <Encoding::ASCII_8BIT>
 ```
 
 
@@ -140,14 +140,14 @@ Let's try:
 
 ``` ruby
 # encoding: utf-8
-String.new("").encoding    #=> <Encoding::UTF_8>
-"".encoding                #=> <Encoding::UTF_8>
+String.new("").encoding     #=> <Encoding::UTF_8>
+"".encoding                 #=> <Encoding::UTF_8>
 
 # or using the Buffer helper
 
-Buffer.new.encoding        #=> <Encoding::UTF_8>
-Buffer.new("").encoding    #=> <Encoding::UTF_8>
-Buffer.new("ab").encoding  #=> <Encoding::UTF_8>
+Buffer.new.encoding         #=> <Encoding::UTF_8>
+Buffer.new("").encoding     #=> <Encoding::UTF_8>
+Buffer.new("abc").encoding  #=> <Encoding::UTF_8>
 ```
 
 
