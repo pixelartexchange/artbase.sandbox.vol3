@@ -25,7 +25,7 @@ Or with conversions to 8-bit integer numbers. Example:
 ``` ruby
 "01000001".to_i(2)     #=> 65
 "65".to_i(10)          #=> 65  
-"65".to_i              #=> 65 - same as .to_i(10)
+"65".to_i              #=> 65 - same as to_i(10)
 "41".to_i(16)          #=> 65
 "0x41".to_i(16)        #=> 65 - same as "41" - 0x hex prefix gets skipped
 ["01000001".to_i(2), "65".to_i(10), "41".to_i(16)]
