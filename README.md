@@ -20,7 +20,7 @@ Example:
 #=> [65, 65, 65]
 ```
 
-Or with conversions to 8-bit integer numbers (also known as bytes):
+Or with conversions to 8-bit integer numbers. Example:
 
 ``` ruby
 "01000001".to_i(2)     #=> 65
