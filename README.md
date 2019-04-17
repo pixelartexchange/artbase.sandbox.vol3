@@ -99,7 +99,7 @@ Let's try:
 ```
 
 
-## String of Bytes or String of Characters - Yes, Yes, Yes
+## String of Bytes or String of Characters? Yes, Yes, Yes
 
 
 In Ruby the String class can morph into three types:
