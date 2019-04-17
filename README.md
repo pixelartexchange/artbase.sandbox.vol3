@@ -6,7 +6,7 @@ _Let's start with the tree types of strings, that is, bytes, (string) buffers, a
 
 ## Byte vs. Character
 
-### What's a byte?
+### What's a Byte?
 
 A byte is a 8-bit integer number (that is, unsigned from 0 to 255 or
 signed from -128 to 127 using 2's complement).
@@ -34,7 +34,7 @@ Or with conversions to 8-bit integer numbers (also known as bytes):
 ```
 
 
-### What's a character?
+### What's a Character?
 
 A character (or char) used to be a byte
 and, thus, a string (array) of characters
