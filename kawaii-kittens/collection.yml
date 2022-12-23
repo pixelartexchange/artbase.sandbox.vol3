@@ -10,9 +10,12 @@ source:     720x720
 ##
 # see
 #     https://etherscan.io/address/0x0a4916cFdC429f48d066Edd279651FeFA7DF99F2
+#     https://opensea.io/collection/kawaiikittensnft
 #     https://pixelart.lol/
 
-web:  pixelart.lol
+opensea: kawaiikittensnft
+twitter: KittensKawaii_
+web:     pixelart.lol
 
 
 token:
