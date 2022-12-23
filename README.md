@@ -1,7 +1,17 @@
+# Artbase Sandbox (& Cache) Vol. 2 - Quick & Dirty "One-Off" Scripts To Download Complete Collections
 
 
 
-# Programming Bits, Bytes 'n' Blocks Step-by-Step Book / Guide
 
-_Let's start with the three types of strings, that is, bytes, (string) buffers, and (frozen) strings, ..._
+
+
+
+
+
+
+
+## Questions? Comments?
+
+
+Post them on the [D.I.Y. Punk (Pixel) Art reddit](https://old.reddit.com/r/DIYPunkArt). Thanks.
 
