@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #110",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/109.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forrest"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    }
+  ],
+  "dna": "6e62df51d1fae0ee7bff688ffca387d18a743acc",
+  "edition": 110,
+  "date": 1670821124528,
+  "compiler": "Art Generator"
+}

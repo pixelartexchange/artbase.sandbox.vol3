@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #73",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/72.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crosses"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Blue Spotted"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Smile"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "3D"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Burger"
+    }
+  ],
+  "dna": "e274a875ce526ccaaedf43c33fe750f79be7927b",
+  "edition": 73,
+  "date": 1670821123459,
+  "compiler": "Art Generator"
+}

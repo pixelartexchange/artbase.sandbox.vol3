@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #81",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/80.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Tangerine Raspberry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ],
+  "dna": "333ad1d17b9124d42f1df012258282182f8a7727",
+  "edition": 81,
+  "date": 1670821123689,
+  "compiler": "Art Generator"
+}

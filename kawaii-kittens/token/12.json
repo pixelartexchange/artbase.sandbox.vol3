@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #13",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/12.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "3 Stripes Midnight"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Barbie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Festive Beanie"
+    }
+  ],
+  "dna": "88003ef67be19ddf652e6c5e6ce7a7341f89186a",
+  "edition": 13,
+  "date": 1670821121684,
+  "compiler": "Art Generator"
+}

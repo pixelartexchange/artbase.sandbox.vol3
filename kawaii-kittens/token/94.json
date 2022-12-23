@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #95",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/94.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Crosses"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Blueberry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii Pink"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Devil Horns"
+    }
+  ],
+  "dna": "aa68961e13435c136466bf79e6b14faff3e08296",
+  "edition": 95,
+  "date": 1670821124094,
+  "compiler": "Art Generator"
+}

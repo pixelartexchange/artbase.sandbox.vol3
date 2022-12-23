@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #35",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/34.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Mutant Sour Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Intense"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Sweat Band"
+    }
+  ],
+  "dna": "512ce86b9e9a4f37c70add06bbb5db6d3ae64098",
+  "edition": 35,
+  "date": 1670821122336,
+  "compiler": "Art Generator"
+}

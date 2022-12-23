@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #39",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/38.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blklava Beige"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Blueberry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Intense"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pirate Hat"
+    }
+  ],
+  "dna": "45894f7165173d9f1fc99084aba14b8de540ec1e",
+  "edition": 39,
+  "date": 1670821122453,
+  "compiler": "Art Generator"
+}

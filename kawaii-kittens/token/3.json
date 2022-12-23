@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #4",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/3.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Navy"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Blueberry Zest"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii Yellow"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "PunkHawk"
+    }
+  ],
+  "dna": "0c1e7984ac7931784c0f68007bd9f4aa3a3b93cb",
+  "edition": 4,
+  "date": 1670821121410,
+  "compiler": "Art Generator"
+}

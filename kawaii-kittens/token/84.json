@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #85",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/84.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Nyan Checkers"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Raspberry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie Blue"
+    }
+  ],
+  "dna": "e72dcc5f706aa124b7f800fb4565e73bb4d576fa",
+  "edition": 85,
+  "date": 1670821123805,
+  "compiler": "Art Generator"
+}

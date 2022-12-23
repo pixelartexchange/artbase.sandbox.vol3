@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #103",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/102.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Play Time Outside"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii Blue"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Sombrero"
+    }
+  ],
+  "dna": "2b3072d888762439d571cb6fcbe136f7b3238898",
+  "edition": 103,
+  "date": 1670821124325,
+  "compiler": "Art Generator"
+}

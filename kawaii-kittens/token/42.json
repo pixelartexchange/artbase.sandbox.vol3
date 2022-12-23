@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #43",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/42.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Ruby Red"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Wizard Hat"
+    }
+  ],
+  "dna": "ba2f284ff3e2105547719089e5d8b7e7ef4d5776",
+  "edition": 43,
+  "date": 1670821122577,
+  "compiler": "Art Generator"
+}

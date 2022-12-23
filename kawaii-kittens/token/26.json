@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #27",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/26.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Play Time Inside"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Blue Coconut"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii Blue"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Pink Bow"
+    }
+  ],
+  "dna": "b5ee7b391d5dd4afbead9e22196d2aed0880239a",
+  "edition": 27,
+  "date": 1670821122101,
+  "compiler": "Art Generator"
+}

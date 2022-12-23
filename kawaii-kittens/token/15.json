@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #16",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/15.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Robot"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Cool Cat"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ],
+  "dna": "6d99fcfc85636de8e39c455ea8e9f3bc68f69830",
+  "edition": 16,
+  "date": 1670821121774,
+  "compiler": "Art Generator"
+}

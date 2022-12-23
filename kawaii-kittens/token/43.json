@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #44",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/43.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Forrest"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Mutant Sour Patch"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Intense"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nurse Hat"
+    }
+  ],
+  "dna": "272716df80cda499bf459468b76e12d429003930",
+  "edition": 44,
+  "date": 1670821122607,
+  "compiler": "Art Generator"
+}

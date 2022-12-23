@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #96",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/95.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "13 Club"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Yellow Spotted"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Diamond"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Alien"
+    }
+  ],
+  "dna": "c6336aa9b7d4d6fac847f68562a475b405f33b80",
+  "edition": 96,
+  "date": 1670821124123,
+  "compiler": "Art Generator"
+}

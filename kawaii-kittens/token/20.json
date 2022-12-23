@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #21",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/20.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Play Time Outside"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Raspberry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Noun Vision"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Beanie Orange"
+    }
+  ],
+  "dna": "d7086f15985a65c1207046512ee00adab749130c",
+  "edition": 21,
+  "date": 1670821121923,
+  "compiler": "Art Generator"
+}

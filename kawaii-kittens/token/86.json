@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #87",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/86.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Green Tea"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Noun Vision"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Unicorn"
+    }
+  ],
+  "dna": "8edcc7bf93637a77063c80de790a34717b27dbbd",
+  "edition": 87,
+  "date": 1670821123864,
+  "compiler": "Art Generator"
+}

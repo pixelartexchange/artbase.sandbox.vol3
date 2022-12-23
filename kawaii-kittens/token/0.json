@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #1",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/0.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tiny Fields"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Yellow Spotted"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Sweat Band"
+    }
+  ],
+  "dna": "6e0544876c29651cff913e05d76da1db70113475",
+  "edition": 1,
+  "date": 1670821121313,
+  "compiler": "Art Generator"
+}

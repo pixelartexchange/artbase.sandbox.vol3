@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #68",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/67.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Blueberry"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii Blue"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Sweat Band"
+    }
+  ],
+  "dna": "53135ff57e67e28cc4bc98b25105ecef30c0272d",
+  "edition": 68,
+  "date": 1670821123314,
+  "compiler": "Art Generator"
+}

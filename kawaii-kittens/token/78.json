@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #79",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/78.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Sour Gummies"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Burger"
+    }
+  ],
+  "dna": "e2a14ec6a997df67ab8b2706a86807a563c2bf50",
+  "edition": 79,
+  "date": 1670821123632,
+  "compiler": "Art Generator"
+}

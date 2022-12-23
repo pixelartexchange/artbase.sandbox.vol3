@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #104",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/103.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "13 Club"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Blue Coconut"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Tongue"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Nurse Hat"
+    }
+  ],
+  "dna": "cecdb6430964b7781b12736ce5a3091452ff2c4f",
+  "edition": 104,
+  "date": 1670821124354,
+  "compiler": "Art Generator"
+}

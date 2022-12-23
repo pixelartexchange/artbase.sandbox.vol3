@@ -1,0 +1,19 @@
+
+slug:       kawaii-kittens
+count:      1700
+token_base: ipfs://QmdEE55S5LF3MY28zGEk9xHaJSPCgEdj6216CbqUzHK3A4/{id}
+image_base: ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/{id}.png
+format:     48x48   ## 48px x 15 = 720px
+source:     720x720
+
+
+##
+# see
+#     https://etherscan.io/address/0x0a4916cFdC429f48d066Edd279651FeFA7DF99F2
+#     https://pixelart.lol/
+
+web:  pixelart.lol
+
+
+token:
+  contract:  "0x0a4916cFdC429f48d066Edd279651FeFA7DF99F2"

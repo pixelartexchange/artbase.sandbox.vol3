@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #92",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/91.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Lemon Coconut"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii Pink"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Top Hat"
+    }
+  ],
+  "dna": "396405a6e9d49ffa816287ade449e99956c84780",
+  "edition": 92,
+  "date": 1670821124008,
+  "compiler": "Art Generator"
+}

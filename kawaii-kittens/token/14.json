@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #15",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/14.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Pink"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Lime Coconut"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Open"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Kawaii Pink"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Double Earring"
+    }
+  ],
+  "dna": "7cdfe5f8fe5b4a243615e035c7662df52ef31e66",
+  "edition": 15,
+  "date": 1670821121744,
+  "compiler": "Art Generator"
+}

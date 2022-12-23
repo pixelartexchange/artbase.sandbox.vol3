@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #3",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/2.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Bubbles"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Lemon Coconut"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Frown"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Intense"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ],
+  "dna": "1071bc8aba25471d5d1cfa7414d6eacb9f18607c",
+  "edition": 3,
+  "date": 1670821121379,
+  "compiler": "Art Generator"
+}

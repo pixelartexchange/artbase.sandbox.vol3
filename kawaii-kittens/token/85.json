@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #86",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/85.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Orange"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Barbie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Straight"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Noun Vision"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Yoshi Hat"
+    }
+  ],
+  "dna": "7e954aa3b8f97cb4db5d6fa3553b49cc1e5e8085",
+  "edition": 86,
+  "date": 1670821123834,
+  "compiler": "Art Generator"
+}

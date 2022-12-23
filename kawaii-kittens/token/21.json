@@ -1,0 +1,31 @@
+{
+  "name": "Kawaii Kitten #22",
+  "description": "A limited edition series of 1700 adorable and playful kittens.",
+  "image": "ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/21.png",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Robonomics"
+    },
+    {
+      "trait_type": "Kawaii Kitty",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Very Happy"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fire"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "None"
+    }
+  ],
+  "dna": "37c5b1be7d6a2d44e98d32c8a089416ff52ccee0",
+  "edition": 22,
+  "date": 1670821121953,
+  "compiler": "Art Generator"
+}
