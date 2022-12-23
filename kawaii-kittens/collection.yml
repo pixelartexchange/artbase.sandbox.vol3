@@ -3,7 +3,7 @@ slug:       kawaii-kittens
 count:      1700
 token_base: ipfs://QmdEE55S5LF3MY28zGEk9xHaJSPCgEdj6216CbqUzHK3A4/{id}
 image_base: ipfs://QmXMSyqDVNhM67hHQnmEmxdSjJXWPSEua32a4RxenmjQws/{id}.png
-format:     48x48   ## 48px x 15 = 720px
+format:     48x48   ## 48px * 15 = 720px
 source:     720x720
 
 

@@ -1,0 +1,43 @@
+{
+  "name": "blklavas #1263",
+  "description": "5090 blklavas, a 26x26 pixel CC0 art project. blklavas are dynamic NFTs and comes with upgrades to active holders.",
+  "image": "ipfs://Qmds2cXpYf8u9uqhDtzBi2ubeJKhS8dGpDYD3QMfvHjbXz/1263.png",
+  "edition": 1263,
+  "date": 1661182887433,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "lavender"
+    },
+    {
+      "trait_type": "foreground",
+      "value": "vault"
+    },
+    {
+      "trait_type": "blklava",
+      "value": "blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "V4"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "speed"
+    },
+    {
+      "trait_type": "head",
+      "value": "crown"
+    },
+    {
+      "trait_type": "wearing",
+      "value": "hoodie"
+    },
+    {
+      "trait_type": "mouth",
+      "value": "e cigg"
+    }
+  ],
+  "seller_fee_basis_points": 700,
+  "fee_recipient": "0x63F4c36bD548C3Ad3DD18364C987E9a062a330cE"
+}

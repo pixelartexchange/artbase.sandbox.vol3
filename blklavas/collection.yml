@@ -1,0 +1,43 @@
+##
+# note: the website says
+#   The collection consists of 5069 regulars and 21 legendaries
+
+
+slug:       blklavas
+count:      5090         ##  5090 (5069 + 21)
+token_base: https://cdn-api.niftykit.com/reveal/5ZdHSe2qEBNqsVXCQVP2/{id}
+image_base: ipfs://Qmds2cXpYf8u9uqhDtzBi2ubeJKhS8dGpDYD3QMfvHjbXz/{id}.png
+format:     26x26          ## 26px * 40 => 1040px
+source:     1040x1040
+offset:     1
+
+## note.
+## no. 12 is a gif!! e.g.
+##   ipfs://Qmds2cXpYf8u9uqhDtzBi2ubeJKhS8dGpDYD3QMfvHjbXz/12.gif
+## no. 22 is a gif!! e.g.
+##   ...
+## no. 34 is a gif!! e.g.
+##   ipfs://Qmds2cXpYf8u9uqhDtzBi2ubeJKhS8dGpDYD3QMfvHjbXz/34.gif
+## no. 153 is a giff!!
+##  ..
+
+## errors:
+## ==> 26 - blklavas...
+##   name: blklavas #26
+##   image: https://nftstorage.link/ipfs/bafkreieg6xpe5e45taq66ashd47sfyijvcrdnnga3fu2ma6k7mwq4lseiy
+## !! ERROR: 301 Moved Permanently
+
+
+##
+# see
+#     https://etherscan.io/address/0xfa751bb98e49a2a8113de92d21c2266d5655f274
+#     https://opensea.io/collection/blklavas
+#     https://blklavas.com/
+
+opensea: blklavas
+twitter: blklavas
+web:     blklavas.com
+
+
+token:
+  contract:  "0xfa751bb98e49a2a8113de92d21c2266d5655f274"

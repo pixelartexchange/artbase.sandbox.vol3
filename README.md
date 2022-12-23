@@ -3,8 +3,11 @@
 
 ## What's News?
 
-48x48 Kawaii Kittens (max. 1700)  ![](i/kawaii-kittens-strip.png)
+**December 2022**
 
+26x26 Blklavas (max. 5090) ![](i/blklavas-strip.png)
+
+48x48 Kawaii Kittens (max. 1700)  ![](i/kawaii-kittens-strip.png)
 
 
 
