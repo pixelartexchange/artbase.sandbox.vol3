@@ -1,5 +1,6 @@
 $LOAD_PATH.unshift( "../pixelart/pixelart/lib" )
 $LOAD_PATH.unshift( "../artbase/artbase/lib" )
+$LOAD_PATH.unshift( "../artbase/artbase-cocos/lib" )
 
 
 require 'artbase'
