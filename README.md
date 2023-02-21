@@ -29,15 +29,16 @@
 ## Yes, You Can  - Download (& Analyze / Archive) Your Own Pixel Art Collections  - A Step-By-Step Guide
 
 
-If you are new the [**artbase**](https://github.com/pixelartexchange/artbase) machinery, here's another follow along step-by-step guide (anno 2023).
+If you are new to the [**artbase**](https://github.com/pixelartexchange/artbase) machinery, here's another follow-along step-by-step guide (anno 2023).
 
 Let's try the 1000 Unordinal Punk (24×24) collection - FREE MINTING NOW!
 
 
-### Step 1   -  Add A Artbase Collection Configuration (collection.yml)
+### Step 1   -  Add An Artbase Collection Configuration (collection.yml)
 
 
-For now the required fields in the artbase collection configuration include - see [unordinalpunks/collection.yml](unordinalpunks/collection.yml):
+For now the required fields in the artbase collection configuration include `slug`, `count`, `token_base`, `format` & `source` - see [unordinalpunks/collection.yml](unordinalpunks/collection.yml):
+
 
 ``` yaml
 slug:       unordinalpunks
@@ -48,21 +49,21 @@ source:     2400x2400
 offset:     1
 ```
 
-`slug` - slug is artbase project diretory name e.g. unordinalpunks
+`slug` - slug is the "slugified" artbase project diretory name e.g. unordinalpunks for  "Unordinal Punks" or is the official unofficial name "Un(official) Ordinal Punks"? ;-)
 
 `count` - is the max. number of collection items e.g. 1000 max.
+
+`token_base` - is the "magic" web link formula / template for getting the "off-chain" token meta data - where `id` is a placeholder for the token id (running from 1 to 1000)
 
 `format` - is the pixel art (minimal) dimension size e.g. 24x24 px and
 
 `source`  - is the pixel art dimension size e.g. 2400x2400px, that is, 100x (!) of the official "original" token image download
 
-`token_base` - is the "magic" web link formula for getting the "off-chain" token meta data - where `id` is a placeholder for the token id (running from 1 to 1000)
-
 `offset`  - is the first collection id / offset (optional if starting at 0) and use 1 for starting counting at 1
 
 
 
-Aside - Now you might wonder - how to find out the "magic" token base link formula
+Aside - Now you might wonder - how to find out the "magic" token base link formula /template
 for a collection?
 
 Lookup the collection contract address and
@@ -71,7 +72,8 @@ For example,  for Unordinal Punks
 the contract address is 0x05bbb2bf0a41393e61d3edc18b979cbcb55ab48d
 and, thus, the [etherscan page @ 0x05bbb2bf0a41393e61d3edc18b979cbcb55ab48d](https://etherscan.io/address/0x05bbb2bf0a41393e61d3edc18b979cbcb55ab48d).
 
-Next click on the "Read Contract" tab and look for the "tokenURI" method.
+Next click on the "Contract" tab and the "Read Contract" (sub)tab
+and look for the "tokenURI" (contract) method /service.
 Enter the tokenId (uint256), that is, 1 (not 0) as the first id
 and hit "Query" resulting in the "magic" (off-chain) token base link forumla:
 
@@ -182,7 +184,7 @@ and all images "restored" to its original (minimal) size.
 ### Bonus: Step 5   -  Make A Teaser / Preview Strip  And An All-In-One Composite
 
 
-Now for fun let's make a teaser or "preview" strip (of the first ten images):
+Now for fun let's make a teaser or "preview" strip (of the first nine images):
 
 ```
 $ artbase unordinalpunks strip
