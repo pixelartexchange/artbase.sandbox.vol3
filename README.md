@@ -150,10 +150,11 @@ resulting in:
 If you look at the
 pixel art image
 the size is  2400x2400 px, that is, a 100x (!) zoom factor
-if we assume a (minimal) 24x24 format.
+if you assume a (minimal) 24x24 format.
 
 
-Now let's downsample / pixelate the images  one-by-one:
+Now let's downsample / pixelate the images one-by-one from
+2400x2400 to 24x24px:
 
 ```
 $ artbase unordinalpunks px
@@ -180,6 +181,7 @@ resulting in:
 Voila!  Now you have a backup or archive of the complete
 pixel art collection with the token meta dataset
 and all images "restored" to its original (minimal) size.
+
 
 ### Bonus: Step 5   -  Make A Teaser / Preview Strip  And An All-In-One Composite
 
