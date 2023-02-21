@@ -10,6 +10,12 @@
 ![](i/unordinalpunks-strip.png)
 
 
+### January 2023
+
+**24×24 Unofficial Punks v2** (max. 2222) <br>
+![](i/unofficialpunks-v2-strip.png)
+
+
 
 ### December 2022
 

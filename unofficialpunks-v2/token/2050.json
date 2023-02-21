@@ -1,0 +1,28 @@
+{
+  "attributes": [
+    {
+      "value": "Smile",
+      "trait_type": "Face"
+    },
+    {
+      "value": "Black",
+      "trait_type": "Glasses"
+    },
+    {
+      "value": "Gold",
+      "trait_type": "Necklace"
+    },
+    {
+      "value": "Crown",
+      "trait_type": "Special"
+    },
+    {
+      "value": "Male",
+      "trait_type": "Type"
+    }
+  ],
+  "description": "Unofficial Punks V2 is a collection of 2222 NFTs infused with the DNA of the original collection that launched in February of 2021. Unofficial Punks V1 is an iconic collection of 100 custom-made punks that started the Alt-punk PFP movement and popularized NFT remix and derivative culture. ",
+  "external_url": "https://unofficialpunks/",
+  "image": "https://assets.bueno.art/images/a720ad49-2b8e-46e2-999f-f677076b7c07/default/2050?s=8bf9094651ec37929ec47042e5339d7e",
+  "name": "Unofficial Punks V2 #2050"
+}

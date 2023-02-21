@@ -1,0 +1,20 @@
+
+slug:       unofficialpunks-v2
+count:      2222
+token_base: https://nft.bueno.art/api/contract/QL56SC9m9OVtZ3ajRhqjz/chain/1/metadata/{id}
+format:     24x24
+source:     2400x2400
+offset:     1
+
+
+##
+# see
+#   https://etherscan.io/address/0xf216c9e7414e84a37f5c24148fa8899cb674ab84
+#   https://www.unofficialpunks.com/2222
+
+opensea: unofficialpunks-v2
+web:     unofficialpunks.com/2222
+
+
+token:
+  contract:  "0xf216c9e7414e84a37f5c24148fa8899cb674ab84"
