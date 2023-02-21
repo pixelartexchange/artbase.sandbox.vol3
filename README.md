@@ -29,9 +29,9 @@
 ## Yes, You Can  - Download (& Analyze / Archive) Your Own Pixel Art Collections  - A Step-By-Step Guide
 
 
-If you are new to the [**artbase**](https://github.com/pixelartexchange/artbase) machinery, here's another follow-along step-by-step guide (anno 2023).
+If you are new to the [**artbase**](https://github.com/pixelartexchange/artbase) machinery, here's an up-to-date (anno 2023) follow-along step-by-step guide.
 
-Let's try the 1000 Unordinal Punk (24×24) collection - FREE MINTING NOW!
+Let's try the 1000 Unordinal Punks (24×24) collection - FREE MINTING NOW!
 
 
 ### Step 1   -  Add An Artbase Collection Configuration (collection.yml)
