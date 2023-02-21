@@ -15,5 +15,7 @@ token-i/
 
 ## ignore dot env (.env) variables
 .env
+.env.yaml
+.env.yml
 
 

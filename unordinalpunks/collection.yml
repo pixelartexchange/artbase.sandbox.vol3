@@ -1,0 +1,21 @@
+
+slug:       unordinalpunks
+count:      1000
+token_base: https://app.bueno.art/api/contract/DMJiB_27eF50gizS36MMN/chain/1/metadata/{id}
+format:     24x24
+source:     2400x2400
+offset:     1
+
+
+##
+# see
+#   https://etherscan.io/address/0x05bbb2bf0a41393e61d3edc18b979cbcb55ab48d
+#   http://unordinalpunks.xyz
+
+opensea: unofficial-ordinal-punks
+twitter: UnordinalPunks
+web:     unordinalpunks.xyz
+
+
+token:
+  contract:  "0x05bbb2bf0a41393e61d3edc18b979cbcb55ab48d"
